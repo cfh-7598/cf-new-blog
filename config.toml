@@ -1,4 +1,4 @@
-baseURL = "https://example.pages.dev/"
+baseURL = "https://cf-new-blog.pages.dev/"
 title = "我的博客"
 theme = "PaperMod"
 defaultContentLanguage = "zh"
